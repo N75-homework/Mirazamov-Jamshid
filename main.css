@@ -1,0 +1,35 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+background-color: rgb(37, 34, 61);
+}
+.firstname{
+font-size: 48px;
+color: #ffffff;
+}
+.text{
+ font-size: 28px;
+ color:#ffffff;
+ padding-top: 12px;
+}
+
+#box{
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px 0;
+  background: rgb(122, 122, 241);
+}
+
+
+#box2{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    background: rgb(122, 122, 241);
+    margin-top: 30px;
+    padding: 20px 0;
+}
